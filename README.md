@@ -81,9 +81,9 @@ Select a category and start answering questions!
 Below 50% → Try Again! 💪
 
 👨‍💻 Author
-Developed by [Your Name]
+Developed by [Gunti Nimisha ]
 
 pgsql
 Copy code
 
-Do you want me to also make the README **GitHub-friendly with badges** (like Python version, repo stars, license), or keep it simple like this?
+
