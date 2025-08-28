@@ -1,0 +1,28 @@
+{
+  "categories": {
+    "General Knowledge": [
+      {
+        "question_text": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "London", "Rome"],
+        "correct_option": 0
+      },
+      {
+        "question_text": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+        "correct_option": 1
+      }
+    ],
+    "Math": [
+      {
+        "question_text": "What is 12 * 8?",
+        "options": ["96", "108", "86", "112"],
+        "correct_option": 0
+      },
+      {
+        "question_text": "Square root of 144 is?",
+        "options": ["10", "11", "12", "13"],
+        "correct_option": 2
+      }
+    ]
+  }
+}
